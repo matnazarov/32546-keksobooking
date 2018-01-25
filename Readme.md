@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Рустам Маратович](https://up.htmlacademy.ru/javascript/12/user/32546).
-* Наставник: `Неизвестно`.
+* Наставник: `Магомед Кандаев`(https://htmlacademy.ru/profile/id161600).
 
 ---
 
